@@ -1,4 +1,5 @@
 'use client';
+
 import React from 'react';
 import Banner from '../components/home/sections/Banner';
 import KeyFeature from '../components/home/sections/KeyFeature';

@@ -1,7 +1,7 @@
 import { Container, Heading, Text, Box, Image } from 'theme-ui';
-import SectionHeader from 'components/section-header';
-import Rating from 'components/rating';
-import ButtonGroup from 'components/button-group';
+import SectionHeader from '../SectionHeader';
+import Rating from '../Rating';
+import ButtonGroup from '../ButtonGroup'
 import Carousel from 'react-multi-carousel';
 
 import Avatar1 from 'assets/testimonial/avatar1.png';
